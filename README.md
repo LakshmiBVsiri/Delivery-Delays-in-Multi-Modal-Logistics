@@ -1,4 +1,3 @@
-# SCM Optimization using AI - "Banana" Project
 **Goal:** Predict delivery delays (1 = delayed, 0 = on-time) and identify key factors.
 
 **Files in this project:**
